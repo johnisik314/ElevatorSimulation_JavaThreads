@@ -40,7 +40,7 @@ To run the ElevatorSimulation_JavaThreads project:
 
 ## Acknowledgments
 
-This project was created by John Isik as a simulation of elevator control using Java threads.
+This project was created by John Isik as a simulation of elevator control using Java threads. Special thanks to Mr. Brown for guidance and support.
 
 ## License
 
